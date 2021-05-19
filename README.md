@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![kimtaeuk-AI GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeuk-AI&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
