@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 ## project
 ### 1. real image to animation
+![image](https://user-images.githubusercontent.com/83504682/119066685-4afe5f80-ba1b-11eb-92e7-d21d1ae0fe6d.png)
 ### 2. opencv traffic sign detection
+
 
 
 
